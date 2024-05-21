@@ -1,5 +1,5 @@
 # Reselect
-
+# Forked
 [![npm package][npm-badge]][npm][![Coveralls][coveralls-badge]][coveralls][![GitHub Workflow Status][build-badge]][build]![TypeScript][typescript-badge]
 
 A library for creating memoized "selector" functions. Commonly used with Redux, but usable with any plain JS immutable data as well.
